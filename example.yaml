@@ -1,0 +1,10 @@
+colors:
+  - name: red
+    hex: ff
+    lables:
+      - expermintal
+      - accessibility
+  - name: green
+    hex: 0
+  - name: blue
+    hex: 00
